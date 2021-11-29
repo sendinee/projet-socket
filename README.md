@@ -12,3 +12,4 @@ Projet original : https://github.com/Jomtek/Pendu
 - Installer tkinter (`pip install tkinter`)
 - Lancer server.py dans un terminal puis client.py dans un autre (le nombre de clients que vous voulez)
    - Exemple : `python server.py`
+Présentation : https://www.canva.com/design/DAEwpefEy5o/ru1YQRxvlsZplq5NSOsHcA/view?utm_content=DAEwpefEy5o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
